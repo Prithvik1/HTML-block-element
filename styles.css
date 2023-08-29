@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Phudu:wght@500&display=swap');
+
+body {
+  font-family: 'Phudu', cursive;
+  background-color: black;
+}
+
+h1 {
+  color: rgb(163, 34, 34);
+  text-align: center;
+}
+
+p{
+  color: darkblue;
+}
