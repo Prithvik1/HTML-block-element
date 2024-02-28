@@ -11,6 +11,8 @@ h1 {
   text-align: center;
 }
 
-p{
-  color: darkblue;
+body p {
+    font-size: 16px;
+    color: #333; 
+    margin-top: 10px;
 }
